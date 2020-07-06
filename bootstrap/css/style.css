@@ -1,0 +1,52 @@
+body {
+    font: 20px arial, sans-serif;
+}
+
+.navbar {
+    background-color: #ffd280;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.produtos {
+    background-color: #c880ff;
+    color: white;
+}
+
+.servicos {
+    background-color: #0bda51;
+    color: white;
+}
+
+.parceiros {
+    background-color: #ff878d;
+    color: white;
+}
+
+.equipe {
+    background-color: #0abab5;
+    color: white;
+}
+
+.contato {
+    background-color: #ba8759;
+    color: rgb(70, 68, 68);
+}
+
+.rodape {
+    padding-top: 30px;
+}
+.bg-footer {
+    color: #1f1e1e;
+    background-color: #ffd280;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.img_contato {
+    margin-top: 10px;
+    width: 50px;
+}
